@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr Salary\n"
+"POT-Creation-Date: 2021-05-12 05:24+0430\n"
+"PO-Revision-Date: 2021-05-12 05:25+0430\n"
+"Last-Translator: Farshadi <Farshad_asgharzade@hotmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Package/Salary/Container.php:92
+#, php-format
+msgid "Fee of each transaction is %s"
+msgstr "کارمزد هر تراکنش %s"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:54
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:21
+msgid "Agreement"
+msgstr "الگوی همکاری"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:55
+msgid "Agreements"
+msgstr "الگو‌های همکاری"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:70
+msgid "Title"
+msgstr "عنوان"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:73
+msgid "Users"
+msgstr "کاربران"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:76
+msgid "Roles"
+msgstr "نقش‌ها"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:79
+msgid "Agreement Method"
+msgstr "شیوه پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:82
+msgid "Agreement Method Value"
+msgstr "مقدار شیوه پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:85
+msgid "Order Threshold Type"
+msgstr "نوع آستانه‌گذاری سفارش‌ها"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:88
+msgid "Consider Before Minimum Threshold"
+msgstr "حساب کردن کف آستانه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:91
+msgid "Maximum Order Threshold"
+msgstr "سقف آستانه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:94
+msgid "Minimum Order Threshold"
+msgstr "کف آستانه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:97
+msgid "Withdraw Method"
+msgstr "شیوه پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:100
+#: src/Pmpr/Package/Salary/Model/Agreement.php:398
+msgid "Withdraw Period"
+msgstr "بازه زمانی تسویه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:103
+msgid "Minimum Withdraw Balance"
+msgstr "کف موجودی برای تسویه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:106
+msgid "Origin"
+msgstr "منشا"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:238
+msgid "Anywhere"
+msgstr "از همه جا"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:239
+msgid "Shortcode"
+msgstr "شورت‌کد"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:252
+#: src/Pmpr/Package/Salary/Setting.php:104
+msgid "Constant Rate"
+msgstr "نرخ ثابت"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:253
+#: src/Pmpr/Package/Salary/Setting.php:105
+msgid "Variable Rate"
+msgstr "نرخ متغییر (درصدی)"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:263
+msgid "Manual"
+msgstr "دستی"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:264
+msgid "Automatic"
+msgstr "خودکار"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:277
+msgid "Per Week"
+msgstr "هفتگی"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:278
+msgid "Per Month"
+msgstr "ماهیانه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:279
+msgid "Each Three Month"
+msgstr "هر سه ماه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:280
+msgid "Each Six Month"
+msgstr "هر شش ماه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:281
+msgid "Per Year"
+msgstr "سالیانه"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:295
+msgid "Without Threshold"
+msgstr "بدون آستانه گذاری"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:296
+msgid "Numerical"
+msgstr "عددی"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:297
+msgid "Monetary"
+msgstr "پولی"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:326
+msgid "Base on roles"
+msgstr "بر اساس نقش‌های کاربری"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:335
+msgid "Base on users id"
+msgstr "بر اساس شناسه کاربران"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:339
+#, php-format
+msgid "Include %s users"
+msgstr "شامل %s کاربر"
+
+#: src/Pmpr/Package/Salary/Model/Agreement.php:378
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:120
+#, php-format
+msgid "%s Number"
+msgstr "%s عدد"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:23
+msgid "Deduct"
+msgstr "کاهش"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:24
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:67
+#: src/Pmpr/Package/Salary/Setting.php:49
+msgid "Deducts"
+msgstr "کسورات"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:35
+#: src/Pmpr/Package/Salary/Model/Income.php:60
+#: src/Pmpr/Package/Salary/Model/Payment.php:56
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:40
+msgid "Withdraw"
+msgstr "درخواست پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:38
+#: src/Pmpr/Package/Salary/Model/Income.php:69
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/WithdrawListTable.php:24
+msgid "Amount"
+msgstr "مبلغ"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:41
+msgid "Type"
+msgstr "نوع"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:51
+msgid "Tax type"
+msgstr "نوع مالیات"
+
+#: src/Pmpr/Package/Salary/Model/Deduct.php:52
+msgid "Fee type"
+msgstr "نوع کارمزد"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:40
+msgid "Income"
+msgstr "درآمد"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:41
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:70
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Income.php:17
+msgid "Incomes"
+msgstr "درآمد‌ها"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:63
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:55
+#: src/Pmpr/Package/Salary/Product.php:50 src/Pmpr/Package/Salary/User.php:75
+msgid "Owner"
+msgstr "صاحب"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:66
+msgid "Related Order"
+msgstr "سفارش مرتبط"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:72
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:36
+msgid "Product"
+msgstr "محصول"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:75
+msgid "Withdraw Status"
+msgstr "وضعیت درخواست"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:87
+msgid "Looked"
+msgstr "قفل شده"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:88
+msgid "Withdrawn"
+msgstr "پرداخت شده"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:89
+msgid "Unwithdrawn"
+msgstr "پرداخت نشده"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:90
+msgid "None Withdrawnable"
+msgstr "غیر قابل پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:277
+msgid "Calculated amount is less than 1."
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Model/Income.php:281
+#, php-format
+msgid "can not found order: %s."
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Model/Income.php:286
+msgid "Required data is missing"
+msgstr "پارامتر ضروری وجود ندارد"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:528
+msgid "Amount is not valid, less than 1"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Model/Income.php:532
+msgid "Agreement not found"
+msgstr "الگوی همکاری یافت نشد"
+
+#: src/Pmpr/Package/Salary/Model/Income.php:535
+msgid "Product locked"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:41
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:73
+msgid "Payment"
+msgstr "پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:42
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Payment.php:17
+msgid "Payments"
+msgstr "پرداخت‌ها"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:59
+msgid "Payout"
+msgstr "مبلغ پرداختی"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:62
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:58
+msgid "Creator"
+msgstr "ایجاد کننده"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:65
+msgid "Terminal"
+msgstr "پایانه"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:68
+msgid "Transaction Datetime"
+msgstr "تاریخ تراکنش"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:71
+msgid "Destination Description"
+msgstr "شرح مقصد"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:74
+msgid "Origin Description"
+msgstr "شرح مبدا"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:77
+msgid "Reference ID"
+msgstr "شماره مرجع"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:80
+msgid "Tracking Code"
+msgstr "کد پیگیری"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:83
+msgid "Origin Bank"
+msgstr "بانک مبدا"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:86
+msgid "Origin Account"
+msgstr "حساب مبدا"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:89
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:61
+msgid "Status"
+msgstr "وضعیت"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:136
+msgid "Failed"
+msgstr "شکست خورد"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:137
+msgid "Success"
+msgstr "موفق"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:151
+msgid "PAYA"
+msgstr "پایا"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:152
+msgid "SANTA"
+msgstr "سانتا"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:153
+msgid "Mobile Bank"
+msgstr "موبایل بانک"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:154
+msgid "ATM"
+msgstr "خود پرداز"
+
+#: src/Pmpr/Package/Salary/Model/Payment.php:155
+msgid "API"
+msgstr "وب سرویس (API)"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:41
+msgid "Withdraws"
+msgstr "درخواست‌های پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:44
+msgid "All Withdraws"
+msgstr "همه درخواست‌ها"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:64
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:74
+#: src/Pmpr/Package/Salary/User.php:116 src/Pmpr/Package/Salary/User.php:386
+msgid "Bank Account Information"
+msgstr "اطلاعات حساب بانکی"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:85
+msgid "Pending"
+msgstr "در حال بررسی"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:86
+msgid "Accepted"
+msgstr "پذیرفته شده"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:87
+msgid "Refused"
+msgstr "رد شده"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:240
+msgid "Pay"
+msgstr "پرداخت"
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:294
+msgid "Your withdraw is submitted successfully."
+msgstr "درخواست پرداخت شما با موفقیت ثبت شد."
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:298
+#, php-format
+msgid "Can not save relation ship: %s"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:311
+#, php-format
+msgid "Can not add a new withdraw: %s"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:316
+#, php-format
+msgid ""
+"You don't have any income until %s, with status %s. please change date and "
+"try again."
+msgstr ""
+"شما هیچ آیتم درآمدی تا تاریخ %s با وضعیت %s ندارید. لطفا تاریخ را عوض کرده و "
+"دوباره امتحان کنید."
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:324
+#, php-format
+msgid ""
+"Your requested amount (%s) is less than your agreement balance threshold (%s)."
+msgstr ""
+"جمع درآمد قابل پرداخت تا تاریخ انتخابی (%s) از کف موجودی برای درخواست پرداخت "
+"(%s) کمتر است."
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:331
+msgid "You don't have any agreement, please contact with administrator."
+msgstr "الگوی همکاری با شما تعریف نشده است، لطفا با مدیر سیستم تماس بگیرید."
+
+#: src/Pmpr/Package/Salary/Model/Withdraw.php:336
+#, php-format
+msgid "You already have a withdraw with %s status."
+msgstr "یک درخواست پرداخت با وضعیت %s دارید. امکان ثبت درخواست جدید وجود ندارد."
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:42
+msgid "My Collaboration Profile"
+msgstr "پروفایل همکاری من"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:72
+#: src/Pmpr/Package/Salary/User.php:68
+#, php-format
+msgid "It's not a valid %s"
+msgstr "این یک %s معتبر نیست"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:72
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:75
+msgid "Date"
+msgstr "تاریخ"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:74
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:75
+#: src/Pmpr/Package/Salary/User.php:69
+#, php-format
+msgid "Please select a %s"
+msgstr "لطفا یک %s را انتخاب کنید"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:106
+msgid "Total Incomes"
+msgstr "جمع کل درآمد‌ها"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:107
+msgid "Total Deducts"
+msgstr "جمع کل کسورات"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:108
+msgid "Total Payments"
+msgstr "جمع کل پرداخت‌ها"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:169
+msgid "Date To"
+msgstr "تا تاریخ"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:180
+msgid ""
+"By submitting a new payment request, you will receive your income in the form "
+"of a deposit to the introduced bank account."
+msgstr ""
+"با ثبت درخواست پرداخت جدید، درآمد‌های خود را به شکل واریز به حساب بانکی معرفی "
+"شده دریافت کنید."
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:184
+msgid "Submit"
+msgstr "تایید"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:191
+msgid "Profile page"
+msgstr "صفحه پروفایل‌"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:193
+#, php-format
+msgid ""
+"You should first, fill in your bank account information inside your %s, to "
+"submit a withdraw."
+msgstr ""
+"برای ثبت درخواست پرداخت، ابتدا اطلاعات حساب بانکی خود را در %s تکمیل کنید."
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Admin.php:198
+msgid "Add New Withdraw"
+msgstr "درخواست پرداخت جدید"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Ajax.php:52
+#: src/Pmpr/Package/Salary/Profile/Admin/Ajax.php:83
+msgid "Some require parameters is missing."
+msgstr "داده‌های مورد نیاز برای انجام عملیات یافت نشد."
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Ajax.php:56
+#: src/Pmpr/Package/Salary/Profile/Admin/Ajax.php:87
+msgid "Your request is not valid."
+msgstr "درخواست شما معتبر نیست."
+
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ORMListTable.php:92
+msgid "Created at"
+msgstr "تاریخ ایجاد"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:35
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Product.php:16
+msgid "Products"
+msgstr "محصولات"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:81
+msgid "No products found."
+msgstr "هیچ محصولی یافت نشد."
+
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:90
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:41
+msgid "Name"
+msgstr "نام"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:91
+msgid "Total Sale"
+msgstr "جمع فروش"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/ListTable/ProductListTable.php:92
+msgid "Your Earns"
+msgstr "سهم شما"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:59
+#, php-format
+msgid "%s of each new order by promoted products"
+msgstr "%s از هر سفارش از طریق شورتکد روی محصولات معرفی شده"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:62
+#, php-format
+msgid "%s of each new order by promoted products on shortcode"
+msgstr "%s از هر سفارش مربوط به محصولات معرفی شده"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:66
+msgid "Incoming Type"
+msgstr "نوع درآمدزایی"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:76
+#, php-format
+msgid "%s sale"
+msgstr "%s فروش"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:87
+#, php-format
+msgid "%s number order"
+msgstr "%s عدد سفارش"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:102
+msgid "Earned revenue is receivable before it reaches the sales floor"
+msgstr "درآمدهای اکتسابی پیش از رسیدن به کف فروش، قابل وصول است"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:105
+msgid "Earned revenue is not receivable before it reaches the sales floor"
+msgstr "درآمدهای اکتسابی پیش از رسیدن به کف فروش، قابل وصول نیست"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:110
+msgid "Record Previous Incomes"
+msgstr "احتساب درآمدهای پیش از کف فروش"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:113
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:126
+#, php-format
+msgid "after %s"
+msgstr "بعد از %s"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:116
+msgid "From first order"
+msgstr "از اولین سفارش"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:120
+msgid "Start of Record Incomes"
+msgstr "شروع ثبت درآمد"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:127
+msgid "End of Record Incomes"
+msgstr "پایان ثبت درآمد"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:136
+msgid "Withdraw minimum balance"
+msgstr "کف موجودی برای درخواست پرداخت"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:143
+msgid "Edit Bank Information"
+msgstr "ویرایش اطلاعات حساب بانکی"
+
+#: src/Pmpr/Package/Salary/Profile/Admin/Tab/Agreement.php:145
+msgid "You don't have any agreement."
+msgstr "الگوی همکاری با شما تعریف نشده است."
+
+#: src/Pmpr/Package/Salary/Salary.php:53
+msgid "Salary"
+msgstr "دریافتی کاربران"
+
+#: src/Pmpr/Package/Salary/Setting.php:38
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: src/Pmpr/Package/Salary/Setting.php:47
+msgid "General"
+msgstr "عمومی"
+
+#: src/Pmpr/Package/Salary/Setting.php:53
+msgid "Fee Policies"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Setting.php:57
+msgid "Enable"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/Setting.php:65 src/Pmpr/Package/Salary/User.php:77
+#: src/Pmpr/Package/Salary/User.php:122
+msgid "Account Information Type"
+msgstr "نوع اطلاعات حساب"
+
+#: src/Pmpr/Package/Salary/Setting.php:71
+msgid "Policy Type"
+msgstr ""
+
+#: src/Pmpr/Package/Salary/User.php:63
+msgid "Collaborator"
+msgstr "همکار"
+
+#: src/Pmpr/Package/Salary/User.php:73
+msgid "Sorry, you can not add new bank info, some previous item is not valid."
+msgstr ""
+"متاسفانه شما قادر به اضافه کردن اطلاعات حساب جدید نیستید، برخی از آیتم‌های "
+"قبلی معتبر نیستند."
+
+#: src/Pmpr/Package/Salary/User.php:74
+msgid "Bank"
+msgstr "بانک"
+
+#: src/Pmpr/Package/Salary/User.php:75
+#, php-format
+msgid "Please enter at least %s characters"
+msgstr "لطفا بیش از %s کاراکتر وارد کنید"
+
+#: src/Pmpr/Package/Salary/User.php:79
+msgid ""
+"Your account specifications not supported, please add information based on "
+"supported banks."
+msgstr ""
+"اطلاعات حساب شما پشتیبانی نمی‌شوند، لطفا با توجه به بانک‌های قابل انتخاب "
+"اطلاعات خود را وارد کنید."
+
+#: src/Pmpr/Package/Salary/User.php:80
+msgid "Sorry, this value already exist in previous items."
+msgstr "مقدار مورد نظر در آیتم‌‌های قبلی موجود است."
+
+#: src/Pmpr/Package/Salary/User.php:143
+msgid "Account Owner Name"
+msgstr "صاحب حساب"
+
+#: src/Pmpr/Package/Salary/User.php:174
+msgid "Income and Payment"
+msgstr "درآمد و پرداخت"
+
+#: src/Pmpr/Package/Salary/Validator.php:49
+msgid "Bank Name"
+msgstr "نام بانک"
+
+#: src/Pmpr/Package/Salary/Validator.php:199
+msgid "Bank Melli Iran"
+msgstr "بانک ملی ایران"
+
+#: src/Pmpr/Package/Salary/Validator.php:200
+msgid "Bank Saderat Iran"
+msgstr "بانک صادرات ایران"
+
+#: src/Pmpr/Package/Salary/Validator.php:201
+msgid "Bank of Industry and Mine"
+msgstr "بانک صنعت و معدن"
+
+#: src/Pmpr/Package/Salary/Validator.php:202
+msgid "Bank Keshavarzi Iran"
+msgstr "بانک کشاورزی ایران"
+
+#: src/Pmpr/Package/Salary/Validator.php:203
+msgid "Bank Pasargad"
+msgstr "بانک پاسارگاد"
+
+#: src/Pmpr/Package/Salary/Validator.php:204
+msgid "Export Development Bank of Iran"
+msgstr "بانک توسعه صادرات ایران"
+
+#: src/Pmpr/Package/Salary/Validator.php:205
+msgid "Saman Bank"
+msgstr "بانک سامان"
+
+#: src/Pmpr/Package/Salary/Validator.php:206
+msgid "Sarmaye Bank"
+msgstr "بانک سرمایه"
+
+#: src/Pmpr/Package/Salary/Validator.php:207
+msgid "EN Bank"
+msgstr "بانک اقتصاد نوین"
+
+#: src/Pmpr/Package/Salary/Validator.php:208
+msgid "Mehre Eghtesad (Sepah)"
+msgstr "بانک اقتصاد (سپه)"
+
+#: src/Pmpr/Package/Salary/Validator.php:209
+msgid "TT Bank"
+msgstr "بانک توسعه تعاون"
+
+#: src/Pmpr/Package/Salary/Validator.php:210
+msgid "Dey Bank"
+msgstr "بانک دی"
+
+#: src/Pmpr/Package/Salary/Validator.php:211
+msgid "Post Bank of Iran"
+msgstr "پست بانک ایران"
+
+#: src/Pmpr/Package/Salary/Validator.php:212
+msgid "Sina Bank"
+msgstr "بانک سینا"
+
+#: src/Pmpr/Package/Salary/Validator.php:213
+msgid "Bank Sepah"
+msgstr "بانک سپه"
+
+#: src/Pmpr/Package/Salary/Validator.php:214
+msgid "Ansar Bank"
+msgstr "بانک انصار"
+
+#: src/Pmpr/Package/Salary/Validator.php:215
+msgid "Bank Mellat"
+msgstr "بانک ملت"
+
+#: src/Pmpr/Package/Salary/Validator.php:216
+msgid "Bank Shahr"
+msgstr "بانک شهر"
+
+#: src/Pmpr/Package/Salary/Validator.php:217
+msgid "Refah Bank"
+msgstr "بانک رفاه"
+
+#: src/Pmpr/Package/Salary/Validator.php:218
+msgid "Commerce Bank"
+msgstr "بانک تجارت"
+
+#: src/Pmpr/Package/Salary/Validator.php:219
+msgid "Housing Bank"
+msgstr "بانک مسکن"
+
+#: src/Pmpr/Package/Salary/Validator.php:220
+msgid "Persian Bank"
+msgstr "بانک پارسیان"
+
+#: src/Pmpr/Package/Salary/Validator.php:221
+msgid "Entrepreneurship Bank"
+msgstr "بانک کارآفرین"
+
+#: src/Pmpr/Package/Salary/Validator.php:364
+msgid "Debit Card"
+msgstr "کارت بانکی"
+
+#: src/Pmpr/Package/Salary/Validator.php:365
+msgid "IBAN"
+msgstr "شماره شبا"
+
+#, fuzzy
+#~| msgid "Account Information Type"
+#~ msgid "Account Type"
+#~ msgstr "نوع اطلاعات حساب"
+
+#~ msgid "Bank Type"
+#~ msgstr "نوع نوشته"
+
+#~ msgid "Please select a bank"
+#~ msgstr "لطفا یک بانک را انتخاب کنید"
