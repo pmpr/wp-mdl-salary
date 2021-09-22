@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6148f36b61d79             |
+    |             614b5c854c9f9             |
     |_______________________________________|
 */
- namespace Pmpr\Package\Salary\Profile\Admin\Tab; use Pmpr\Package\Salary\Model\Withdraw; use Pmpr\Package\Salary\Profile\Admin\ListTable\WithdrawListTable; class Payment extends ORMTab { public function __construct() { $this->id = "\x70\x61\x79\155\145\x6e\164\x73"; $this->title = __("\x50\141\x79\x6d\x65\156\x74\x73", PR__PKG__SALARY); $this->priority = 20; parent::__construct(); } public function eiieguqemowyacgi() { $this->listTable = new WithdrawListTable(Withdraw::symcgieuakksimmu()); parent::eiieguqemowyacgi(); } }
+ namespace Pmpr\Package\Salary\Profile\Admin\Tab; use Pmpr\Package\Salary\Model\Withdraw; use Pmpr\Package\Salary\Profile\Admin\ListTable\WithdrawListTable; class Payment extends ORMTab { public function __construct() { goto casgoamcqkekgeeo; sooecucuakgkuyis: parent::__construct(); goto ywqakqkmmcoceqka; yseyyukqaowwouua: $this->title = __("\120\x61\x79\x6d\x65\156\x74\x73", PR__PKG__SALARY); goto qcgyggiaowuqswuw; casgoamcqkekgeeo: $this->id = "\160\x61\x79\x6d\x65\156\164\x73"; goto yseyyukqaowwouua; qcgyggiaowuqswuw: $this->priority = 20; goto sooecucuakgkuyis; ywqakqkmmcoceqka: } public function eiieguqemowyacgi() { $this->listTable = new WithdrawListTable(Withdraw::symcgieuakksimmu()); parent::eiieguqemowyacgi(); } }
