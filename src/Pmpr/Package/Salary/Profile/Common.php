@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             614b65aff1cc6             |
+    |             614ca04edad5c             |
     |_______________________________________|
 */
  namespace Pmpr\Package\Salary\Profile; use Pmpr\Package\Salary\Container; class Common extends Container { }
