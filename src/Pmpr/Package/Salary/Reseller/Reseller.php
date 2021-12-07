@@ -4,4 +4,4 @@
     |             61afe0f26121f             |
     |_______________________________________|
 */
- namespace Pmpr\Package\Salary\Profile\Admin\Tab; use Pmpr\Common\Foundation\Page\Admin\Tab as BaseClass; abstract class Tab extends BaseClass { }
+ namespace Pmpr\Package\Salary\Reseller; class Reseller extends Common { }
