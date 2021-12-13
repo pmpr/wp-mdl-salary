@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             61afe0f26121f             |
+    |             61b74eed53fe1             |
     |_______________________________________|
 */
- namespace Pmpr\Package\Salary\Model; use Pmpr\Package\Salary\Container; class Model extends Container { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { goto cgeuosayqssasuou; imyoiukqcmewqkkw: Withdraw::symcgieuakksimmu(); goto ugoqkakikayagkmm; ummgomwmsqygiqcy: Payment::symcgieuakksimmu(); goto skuykkqcgakewusu; cgeuosayqssasuou: Income::symcgieuakksimmu(); goto ummgomwmsqygiqcy; skuykkqcgakewusu: Request::symcgieuakksimmu(); goto imyoiukqcmewqkkw; ugoqkakikayagkmm: Agreement::symcgieuakksimmu(); goto guyskocigecaisas; guyskocigecaisas: } }
+ namespace Pmpr\Package\Salary\Model; use Pmpr\Package\Salary\Container; class Model extends Container { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { goto agemeseegiuuowgo; agemeseegiuuowgo: Income::symcgieuakksimmu(); goto goswwiomuackymqi; gykuaukukosiocoy: Request::symcgieuakksimmu(); goto camawumockccayaq; camawumockccayaq: Withdraw::symcgieuakksimmu(); goto uuisaeysawuagysg; goswwiomuackymqi: Payment::symcgieuakksimmu(); goto gykuaukukosiocoy; uuisaeysawuagysg: Agreement::symcgieuakksimmu(); goto ggqeakyaggiuegek; ggqeakyaggiuegek: } }

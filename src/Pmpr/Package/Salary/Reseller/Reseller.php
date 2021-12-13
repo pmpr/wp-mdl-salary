@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             61afe0f26121f             |
+    |             61b74eed53fe1             |
     |_______________________________________|
 */
  namespace Pmpr\Package\Salary\Reseller; class Reseller extends Common { }
