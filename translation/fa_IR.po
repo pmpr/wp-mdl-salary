@@ -1487,3 +1487,4 @@ msgstr "%s وارد شده معتبر نیست"
 
 #~ msgid "Bank Type"
 #~ msgstr "نوع نوشته"
+
