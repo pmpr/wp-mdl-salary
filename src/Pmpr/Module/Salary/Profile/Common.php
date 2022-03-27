@@ -4,4 +4,4 @@
     |             62401034c08cd             |
     |_______________________________________|
 */
- use Pmpr\Module\Salary\Salary; Salary::symcgieuakksimmu();
+ namespace Pmpr\Module\Salary\Profile; use Pmpr\Module\Salary\Container; class Common extends Container { }

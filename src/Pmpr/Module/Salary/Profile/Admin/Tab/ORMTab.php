@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             62401034c08cd             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Module\Salary\Profile\Admin\Tab; use Pmpr\Module\Salary\Profile\Admin\ListTable\ORMListTable; abstract class ORMTab extends Tab { protected ?ORMListTable $listTable = null; public function waeasakssissiuqg() : ?ORMListTable { return $this->listTable; } public function eiieguqemowyacgi() { if (!$this->waeasakssissiuqg()) { goto skkamseieeusycye; } $this->waeasakssissiuqg()->prepare_items(); skkamseieeusycye: parent::eiieguqemowyacgi(); } public function gayqqwwuycceosii() : array { $qookweymeqawmcwo = []; $qsyooiqcmkcieyuk = $this->waeasakssissiuqg(); if (!$qsyooiqcmkcieyuk) { goto cgiscsqwwgqqaeqi; } $meywaqqsugaoeyys = $qsyooiqcmkcieyuk->mgogaykgkoogasim(); $qookweymeqawmcwo = ["\x61\143\164\151\x6f\156\x73" => $meywaqqsugaoeyys->easkmgsoqaqeyayo(), "\154\x69\x73\x74\x5f\164\141\x62\x6c\x65" => $qsyooiqcmkcieyuk, "\146\x69\154\x74\145\162\137\156\141\x6d\x65" => $meywaqqsugaoeyys->aakiaoueckoiyoew(), self::NAME => $meywaqqsugaoeyys->miwqiiqeegeqcwis(), self::qescuiwgsyuikume => $meywaqqsugaoeyys->oyeskqayoscwciem()->uikgwcuascgeissw("\160\154\x75\162\x61\x6c\137\x6e\141\x6d\x65"), self::qwumqqyuasyskkkc => $meywaqqsugaoeyys->oyeskqayoscwciem()->uikgwcuascgeissw("\x73\x65\141\x72\x63\150\137\151\x74\145\155\163"), self::wosqwewmqmyweqea => $qsyooiqcmkcieyuk->umaeoegyykkkqmia()]; cgiscsqwwgqqaeqi: return $qookweymeqawmcwo; } }

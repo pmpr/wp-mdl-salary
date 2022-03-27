@@ -4,4 +4,4 @@
     |             62401034c08cd             |
     |_______________________________________|
 */
- use Pmpr\Module\Salary\Salary; Salary::symcgieuakksimmu();
+ namespace Pmpr\Module\Salary\Profile\Admin\Tab; use Pmpr\Common\Foundation\Page\Admin\Tab as BaseClass; abstract class Tab extends BaseClass { }

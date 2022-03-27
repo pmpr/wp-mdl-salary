@@ -1,8 +1,8 @@
 {
-  "name": "pmpr-pkg/wp-pkg-salary",
+  "name": "pmpr-mod/wp-mod-salary",
   "type": "project",
   "license": "proprietary",
-  "description": "Salary Package for Wordpress",
+  "description": "Salary Module for Wordpress",
   "keywords": [
     "wordpress",
     "package",
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pmpr\\Package\\Salary\\": "src/Pmpr/Package/Salary"
+      "Pmpr\\Module\\Salary\\": "src/Pmpr/Module/Salary"
     },
     "files": [
       "index.php"
