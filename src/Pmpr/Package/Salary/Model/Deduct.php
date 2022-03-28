@@ -1,7 +1,0 @@
-<?php
-/*   _______________________________________
-    |  Obfuscated by PMPR - Php Obfuscator  |
-    |             616fe26895947             |
-    |_______________________________________|
-*/
- namespace Pmpr\Package\Salary\Model; class Deduct extends Common { const AMOUNT = "\x61\x6d\157\x75\156\x74"; const WITHDRAW_ID = "\167\x69\164\x68\x64\x72\x61\167\137\151\144"; const TYPE_TAX = "\x74\141\x78"; const TYPE_FEE = "\146\145\x65"; public function ckgmycmaukqgkosk() { parent::ckgmycmaukqgkosk(); $this->oyeskqayoscwciem()->myysgyqcumekoueo()->guiaswksukmgageq(__("\104\145\x64\x75\x63\x74", PR__PKG__SALARY))->muuwuqssqkaieqge(__("\x44\x65\144\x75\x63\164\163", PR__PKG__SALARY)); } public function eucukwckumgiyyww($oyuikeusicgqgwak = []) : array { return parent::eucukwckumgiyyww([$this->ggiieomioscuigco(self::WITHDRAW_ID)->uwmyqckcyamwaiww(Withdraw::class)->wuuqgaekqeymecag()->gswweykyogmsyawy(__("\x57\151\x74\x68\144\162\x61\167", PR__PKG__SALARY)), $this->qcyqgwuuymykkcke(self::AMOUNT)->acceqyqygswoecwe(50)->gswweykyogmsyawy(__("\101\155\157\x75\x6e\x74", PR__PKG__SALARY)), $this->qcyqgwuuymykkcke(self::TYPE)->acceqyqygswoecwe(50)->gswweykyogmsyawy(__("\x54\171\x70\145", PR__PKG__SALARY))]); } public function mwoyqeeigwqoamiw() : array { return [self::TYPE_TAX => __("\x54\x61\x78\x20\x74\171\x70\145", PR__PKG__SALARY), self::TYPE_FEE => __("\106\145\x65\40\164\171\160\145", PR__PKG__SALARY)]; } }
