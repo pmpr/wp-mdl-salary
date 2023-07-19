@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6432b7fd5e31d             |
+    |             64b786786c86f             |
     |_______________________________________|
 */
  namespace Pmpr\Module\Salary\Profile\Admin\Tab; use Pmpr\Common\Foundation\Page\Admin\Tab as BaseClass; abstract class Tab extends BaseClass { }
