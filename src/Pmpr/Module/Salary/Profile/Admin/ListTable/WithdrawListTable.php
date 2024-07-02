@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6654cb66de764             |
+    |             6684010874872             |
     |_______________________________________|
 */
- namespace Pmpr\Module\Salary\Profile\Admin\ListTable; use Pmpr\Module\Salary\Model\Withdraw; class WithdrawListTable extends ORMListTable { public function get_columns() : array { $wkkweuacukumqmya = []; $meywaqqsugaoeyys = $this->mgogaykgkoogasim(); if (!$meywaqqsugaoeyys instanceof Withdraw) { goto oeamoqweiueaueay; } $oammesyieqmwuwyi = [$meywaqqsugaoeyys::owmueawayysqcsqo, $meywaqqsugaoeyys::aioqyewkwawaqgqe => __("\101\x6d\x6f\x75\x6e\164", PR__MDL__SALARY), $meywaqqsugaoeyys::ciywsqoeiymemsys]; $wkkweuacukumqmya = $this->ewgmueueeycoikso($oammesyieqmwuwyi); oeamoqweiueaueay: return $wkkweuacukumqmya; } }
+ namespace Pmpr\Module\Salary\Profile\Admin\ListTable; use Pmpr\Module\Salary\Model\Withdraw; class WithdrawListTable extends ORMListTable { public function get_columns() : array { $wkkweuacukumqmya = []; $meywaqqsugaoeyys = $this->mgogaykgkoogasim(); if (!$meywaqqsugaoeyys instanceof Withdraw) { goto asaowisseacciyia; } $oammesyieqmwuwyi = [$meywaqqsugaoeyys::owmueawayysqcsqo, $meywaqqsugaoeyys::aioqyewkwawaqgqe => __("\101\x6d\157\x75\156\164", PR__MDL__SALARY), $meywaqqsugaoeyys::ciywsqoeiymemsys]; $wkkweuacukumqmya = $this->ewgmueueeycoikso($oammesyieqmwuwyi); asaowisseacciyia: return $wkkweuacukumqmya; } }
